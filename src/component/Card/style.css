@@ -1,0 +1,15 @@
+.Card__photo {
+    width: 100px;
+    height: 100px;
+    }
+    .Card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 300px;
+        margin: auto;
+        padding: 30px;
+    }
+    .Card__item {
+        margin: 15px;
+    }
